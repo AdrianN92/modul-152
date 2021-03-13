@@ -1,0 +1,29 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+#content {
+    background-color: #7e9dca;
+    height: 100vh;
+    padding: 20% 10%;
+}
+
+.title {
+    color: rgb(219, 161, 15);
+    margin-bottom: 35px;
+}
+.line {
+    max-width: 50px;
+    height: 5px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+svg{
+    width: 32px;
+
+}
