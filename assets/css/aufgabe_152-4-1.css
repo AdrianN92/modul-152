@@ -1,0 +1,91 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: red;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Lato', sans-serif;
+}
+body {
+    margin: 0px;
+    background-color: #7e9dca;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 42px;
+    line-height: 44px;
+    letter-spacing: -1px;
+    padding-top: 44px;
+    font-family: 'Merriweather', serif;
+}
+
+.text_line{
+    background-color: black;
+    border-color: black;
+    max-width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 2px solid;
+}
+
+h2{
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Merriweather', serif;
+}
+
+
+#content {
+    background-color: grey;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.topomedics {
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 500px;
+    left: 10vh;
+}
+.text {
+    width: 1120px;
+    padding: 0px auto;
+    margin: auto 20px;
+}
+
+.body {
+    columns: 3;
+    column-gap: 30px;
+   
+}
+
+.bottom_line {
+    background-color: red;
+    border-color: red;
+    margin-top: 50px;
+}
+/* .google_icon {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 100px;
+    left:80%;
+} */
+
+svg {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 5vh;
+    left: 62%;
+    padding: 20px;
+}
